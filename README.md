@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard exploring when, where, and why the MBTA system experiences delays and congestion — and what that means for commuter reliability.
 
-🔗 **[View the live dashboard on Tableau Public]https://public.tableau.com/app/profile/nikitha.vishnumolakala/viz/mbta_dashboard/MBTATransitReliabilityCongestionDashboard**
+🔗**https://public.tableau.com/app/profile/nikitha.vishnumolakala/viz/mbta_dashboard/MBTATransitReliabilityCongestionDashboard**
 
 
 ## The Question
